@@ -10,7 +10,7 @@ globalConfig = {
     "orderRebateconsumerIntegral": 0.1,
 
     # 种子用户人数
-    "angelUserCoun": 0,
+    "angelUserCount": 1000,
 
     # 用户周增长系数
     "userWeekIncreas": 1.5,
@@ -22,7 +22,10 @@ globalConfig = {
     "exchangeCashTax": 0.03,
 
     # 组队成功率
-    "teamRate": 0.3
+    "teamRate": 0.3,
+
+    # 订单价格
+    "orderPrice": 10000
 }
 
 # ------ 用户账户配置 ------
